@@ -1,0 +1,19 @@
+{
+  "name": "cat",
+  "version": "1.0.0",
+  "description": "calculator",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paccymegastar07/cat-js.git"
+  },
+  "author": "paccy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paccymegastar07/cat-js/issues"
+  },
+  "homepage": "https://github.com/paccymegastar07/cat-js#readme"
+}
